@@ -1,7 +1,7 @@
 ---
-title: Marty Quass
-date: 2023-06-22
-tags: ["2023","bio"]
+title: "Marty"
+layout: single
+date: 2023-06-21
 draft: false
 ---
 
@@ -26,3 +26,4 @@ There needs to be a picture here.
 
 File Name: "marty_agnes.jpg"
 ```
+

@@ -5,7 +5,6 @@ tags: ["2023"]
 draft: false
 ---
 
-## About
 An old friend of mine once had a website dedicated to his model railroad and things in his community.
 
 This site was created to upload and keep those stories and information that he had available on the internet.
